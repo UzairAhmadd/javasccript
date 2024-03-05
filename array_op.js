@@ -1,5 +1,5 @@
 const nums= [2,6,1,7,2,8,4,93];
-for(let  i=0;i<nums.length;i++){
+for(let  i=0;i<nums.length-1;i++){
     console.log(nums[i]);
 }
 for(let i of nums){
